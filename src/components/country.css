@@ -1,0 +1,13 @@
+.img {
+  height: 100px;
+  width: 100px;
+}
+.btn {
+  background-color: cornflowerblue;
+}
+.country-container {
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+  align-items: center;
+}
